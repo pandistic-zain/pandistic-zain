@@ -5,7 +5,7 @@
 📚 Author of research on deep learning architectures for multiclass plant disease classification<br><br>
 🔭 Currently building AI-driven applications & scalable SaaS systems<br><br>
 🧠 Exploring Cloud Architecture (AWS/GCP), Microservices & AI deployment pipelines<br><br>
-🎯 Career Goals: 🎓 MS / PhD abroad • 💼 Remote AI Engineering roles<br><br>
+🎯 Career Goals: MS/PhD research in Artificial Intelligence & production-grade AI engineering<br><br>
 ⚡ Passionate about integrating intelligent models with robust backend engineering
 
 
