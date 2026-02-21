@@ -1,17 +1,69 @@
-# 💫 About Me:
-💻 Full Stack Developer specializing in Next.js, TypeScript, Tailwind CSS, Framer Motion & GSAP<br><br>☕ Backend Engineer working with Java & Spring Boot for scalable, production-ready systems<br><br>🤖 Passionate about AI solutions, Computer Vision & Image Processing research<br><br>🔭 Currently building AI-driven web applications & modern SaaS platforms<br><br>🤝 Open to collaborating on Startup MVPs, AI products & scalable full-stack systems<br><br>🧠 Exploring Cloud Architecture (AWS/GCP), Microservices & AI deployment pipelines<br><br>⚡ I enjoy architecting clean systems that bridge intelligent models with real-world applications
+# Zain Ul Abideen  
+Full Stack Engineer | AI & Computer Vision Researcher | Spring Boot & Next.js
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100079905174484&_rdc=1&_rdr#) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pandistic._.zain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zain-ul-abideen-b9215a283/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@pandistic._.zain) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandistic.zain@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pandistic-zain&show_icons=true&theme=monokai&hide_border=false&cache_seconds=86400)<br/>
-![](https://streak-stats.demolab.com?user=pandistic-zain&theme=monokai&hide_border=false&cache_seconds=86400)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pandistic-zain&theme=monokai&hide_border=false&layout=compact&cache_seconds=86400)
 ---
-[![](https://visitcount.itsvg.in/api?id=pandistic-zain&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔬 Research & Interests
+
+- Artificial Intelligence  
+- Computer Vision  
+- Image Processing  
+- Scalable AI Systems  
+- Applied Machine Learning  
+
+I focus on building intelligent systems that combine research-driven AI models with production-grade backend architecture.
+
+---
+
+## 📚 Publications
+
+- Zain Ul Abideen, **[Your Springer Paper Title]**, Springer, 2024.  
+  🔗 https://doi.org/YOUR_DOI_HERE  
+
+- ORCID: https://orcid.org/0009-0009-7789-1159  
+
+---
+
+## 🧠 Technical Expertise
+
+### AI / Machine Learning
+Python • TensorFlow • Keras • scikit-learn • Data Visualization • Model Evaluation
+
+### Backend Engineering
+Java • Spring Boot • Hibernate • REST APIs • JWT Authentication • Microservices
+
+### Frontend & Systems
+Next.js • TypeScript • React • Tailwind CSS
+
+### Databases & Tools
+MySQL • Prisma • Git • GitHub • Vercel
+
+---
+
+## 🚀 Selected Work
+
+### 🔹 AI-Based Vision System
+Research-oriented Computer Vision project focused on real-world image processing applications.
+
+### 🔹 Scalable SaaS Architecture
+Full-stack platform using Next.js + Spring Boot with production-ready backend design.
+
+---
+
+## 🌍 Professional Links
+
+[LinkedIn](https://www.linkedin.com/in/zain-ul-abideen-b9215a283/)  
+[ORCID](https://orcid.org/0009-0009-7789-1159)  
+Email: pandistic.zain@gmail.com  
+
+---
+
+## 📊 GitHub Activity
+
+![](https://github-readme-stats.vercel.app/api?username=pandistic-zain&show_icons=true&theme=monokai&cache_seconds=86400)
+
+![](https://streak-stats.demolab.com?user=pandistic-zain&theme=monokai&cache_seconds=86400)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pandistic-zain&theme=monokai&layout=compact&cache_seconds=86400)
+
+---
