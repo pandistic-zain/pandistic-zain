@@ -107,7 +107,7 @@ function render({ weeks, mode }) {
 @media (prefers-reduced-motion:reduce){*{animation:none!important}}</style></defs>
 <rect width="${W}" height="${H}" fill="${C.ink}"/>
 ${sampleBanner}
-<text x="48" y="${mode === 'sample' ? 60 : 52}" class="mn" font-size="11" fill="${C.red}">04 / contributions</text>
+<text x="48" y="${mode === 'sample' ? 60 : 52}" class="mn" font-size="11" fill="${C.red}">05 / contributions</text>
 <text x="46" y="122" class="sy" font-size="${empty ? 44 : 66}" fill="${C.paper}">${empty ? 'Awaiting first sync' : fmt(st.total)}</text>
 <text x="48" y="146" class="mn" font-size="9" fill="${C.grey}">${empty ? 'runs daily once the workflow is set up' : 'contributions / last 12 months'}</text>
 ${empty ? '' : stat(500, String(st.cur), 'current streak') + stat(640, String(st.longest), 'longest streak') + stat(780, String(st.busiest), 'best day')}

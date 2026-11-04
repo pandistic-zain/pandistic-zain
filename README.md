@@ -1,39 +1,28 @@
-![Zain Ul Abideen, full-stack developer. Building the whole system.](./assets/hero.svg?v=1)
+![Zain Ul Abideen, full-stack developer. Building the whole system.](./assets/hero.svg?v=2)
 
-![About: six layers of engineering and three interests](./assets/about-life.svg?v=1)
+![About: six layers of engineering and three interests](./assets/about-life.svg?v=2)
 
-![Engineering stack grouped by layer](./assets/stack.svg?v=1)
+![Engineering stack grouped by layer](./assets/stack.svg?v=2)
 
-![Developer ID with four dated figures](./assets/id-dashboard.svg?v=1)
+![Developer ID with four dated figures](./assets/id-dashboard.svg?v=2)
 
-![Contribution graph, including private repositories as anonymous counts](./assets/contributions.svg?v=20261104)
+![Contribution graph, including private repositories as anonymous counts](./assets/contributions.svg?v=2)
 
-![Connect: links to portfolio, LinkedIn, Upwork, Fiverr, calendar, email, ORCID and ResearchGate](./assets/connect.svg?v=1)
+![Selected work](./assets/work-head.svg?v=2)
+<p>
+<a href="https://www.webbyzain.online/work/quran-horizon"><img src="./assets/work-1.svg?v=2" alt="Quran Horizon: Live classrooms, self-hosted speech intelligence and a production deployment pipeline. Opens the case study." width="406"></a><a href="https://www.webbyzain.online/work/animal-mart"><img src="./assets/work-2.svg?v=2" alt="Animal Mart: Marketplace infrastructure: catalogue, checkout, operations and customer journeys in one system. Opens the case study." width="406"></a><a href="https://www.webbyzain.online/work/ilms"><img src="./assets/work-3.svg?v=2" alt="ILMS: Complex institutional workflows, kept clear for the people using them. Opens the case study." width="406"></a><a href="https://www.webbyzain.online/work/pseb-chatbot"><img src="./assets/work-4.svg?v=2" alt="PSEB Chatbot: An approachable AI interface that makes public information easier to find and act on. Opens the case study." width="406"></a>
+</p>
 
-**Reach me:**
-[Portfolio](https://www.webbyzain.online) ·
-[LinkedIn](https://www.linkedin.com/in/zain-ul-abideen-b9215a283/) ·
-[Upwork](https://www.upwork.com/freelancers/~01096da55a40bebed4) ·
-[Fiverr](https://www.fiverr.com/users/zain_java_dev/) ·
-[Book a 30-min call](https://cal.com/pandistic.zain/30min) ·
-[Email](mailto:pandistic.zain@gmail.com) ·
-[ORCID](https://orcid.org/0009-0009-7789-1159) ·
-[ResearchGate](https://www.researchgate.net/profile/Zain-Ul-Abdeen-3)
+[![Publication: Hierarchical Feature Fusion With Inception V3 for Multiclass Plant Disease Classification. Informatica, 2025. Opens the paper.](./assets/publication.svg?v=2)](https://doi.org/10.31449/inf.v49i27.8208)
 
-## Selected work
-
-Client and product code lives in private repositories, so each project links to its case study.
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**Quran Horizon**](https://www.webbyzain.online/work/quran-horizon) | Live classrooms, self-hosted speech intelligence and a production deployment pipeline. | Next.js, LiveKit, Ollama |
-| [**Animal Mart**](https://www.webbyzain.online/work/animal-mart) | Marketplace infrastructure: catalogue, checkout, operations and customer journeys in one system. | Next.js, Prisma, Safepay |
-| [**ILMS**](https://www.webbyzain.online/work/ilms) | Complex institutional workflows, kept clear for the people using them. | Next.js, Framer Motion, GPT APIs |
-| [**PSEB Chatbot**](https://www.webbyzain.online/work/pseb-chatbot) | An approachable AI interface that makes public information easier to find and act on. | FastAPI, Python, GPT APIs |
-
-## Publication
-
-**Hierarchical Feature Fusion With Inception V3 for Multiclass Plant Disease Classification**
-*Informatica*, 2025. DOI: [10.31449/inf.v49i27.8208](https://doi.org/10.31449/inf.v49i27.8208)
-
-<sub>Figures on the ID card come from [webbyzain.online](https://www.webbyzain.online), checked 4 Nov 2026. The contribution graph refreshes daily and counts private-repository activity without naming any repository.</sub>
+![Connect: links to portfolio, LinkedIn, Upwork, Fiverr, calendar, email, ORCID and ResearchGate](./assets/connect.svg?v=2)
+<p>
+<a href="https://www.webbyzain.online"><img src="./assets/link-portfolio.svg?v=2" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/zain-ul-abideen-b9215a283/"><img src="./assets/link-linkedin.svg?v=2" alt="LinkedIn"></a>
+<a href="https://www.upwork.com/freelancers/~01096da55a40bebed4"><img src="./assets/link-upwork.svg?v=2" alt="Upwork"></a>
+<a href="https://www.fiverr.com/users/zain_java_dev/"><img src="./assets/link-fiverr.svg?v=2" alt="Fiverr"></a>
+<a href="https://cal.com/pandistic.zain/30min"><img src="./assets/link-cal.svg?v=2" alt="Book a call"></a>
+<a href="mailto:pandistic.zain@gmail.com"><img src="./assets/link-email.svg?v=2" alt="Email"></a>
+<a href="https://orcid.org/0009-0009-7789-1159"><img src="./assets/link-orcid.svg?v=2" alt="ORCID"></a>
+<a href="https://www.researchgate.net/profile/Zain-Ul-Abdeen-3"><img src="./assets/link-researchgate.svg?v=2" alt="ResearchGate"></a>
+</p>
