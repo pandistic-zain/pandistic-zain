@@ -6,7 +6,7 @@
 
 ![Developer ID with four dated figures](./assets/id-dashboard.svg?v=1)
 
-![Contribution graph, including private repositories as anonymous counts](./assets/contributions.svg?v=1)
+![Contribution graph, including private repositories as anonymous counts](./assets/contributions.svg?v=20261104)
 
 ![Connect: links to portfolio, LinkedIn, Upwork, Fiverr, calendar, email, ORCID and ResearchGate](./assets/connect.svg?v=1)
 
