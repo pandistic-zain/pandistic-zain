@@ -6,7 +6,7 @@
 
 ![Developer ID with four dated figures](./assets/id-dashboard.svg?v=2)
 
-![Contribution graph, including private repositories as anonymous counts](./assets/contributions.svg?v=20261106)
+![Contribution graph, including private repositories as anonymous counts](./assets/contributions.svg?v=20261107)
 
 ![Selected work](./assets/work-head.svg?v=2)
 <p>
